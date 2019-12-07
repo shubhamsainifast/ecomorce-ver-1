@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import Homepage from './homepage.component';
+import Homepage from './pages/homepage/hompage.c'
 function App() {
- return <div>
+ return <div className="homepage">
 
 <Homepage/>
 
